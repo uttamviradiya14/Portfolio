@@ -110,7 +110,7 @@ export default function About() {
             className="text-lg md:text-xl text-gray-300 leading-relaxed"
           >
             Hi! I'm{" "}
-            <span className="text-blue-400 font-semibold">Your Name</span>, a
+            <span className="text-blue-400 font-semibold">Uttam Viradiya</span>, a
             passionate{" "}
             <span className="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-pink-400">
               React & Full-Stack Developer
